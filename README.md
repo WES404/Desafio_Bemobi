@@ -10,5 +10,5 @@ Um arquivo será aberto por stdin e análisado os logs dos paises, no final é f
 ## Utilização
 
 Ao rodar o arquivo usar da seguinte forma:
-log.py python3 "Nome_do_log.extensão"  P/ Windows
-Python log.py "Nome_do_log.extensão"   nos demais OS
+* log.py python3 "Nome_do_log.extensão"   - Se Windows
+* Python log.py "Nome_do_log.extensão"    - nos demais OS
